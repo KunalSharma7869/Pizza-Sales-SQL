@@ -11,5 +11,5 @@ FEATURES:
 GETTING STARTED
 Data Analysis with SQL:
 
-The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the  of this repository.
+The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the https://github.com/KunalSharma7869/Pizza-Sales-SQL/blob/main/pizza%20sales%20project%20self.sql  of this repository.
 
