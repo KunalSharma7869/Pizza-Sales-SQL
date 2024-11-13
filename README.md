@@ -1,1 +1,1 @@
-# Pizza-Sales-SQL
+Welcome to the Pizza Sales Report project, where we leverage SQL for data analysis . This project provides in-depth insights into pizza sales data, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
